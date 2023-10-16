@@ -1,0 +1,7 @@
+mongodb_data
+minio_data
+clearml.conf
+token.txt
+.dccache
+*.trunk
+.vscode
